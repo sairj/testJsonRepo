@@ -1,0 +1,170 @@
+[
+  {
+    "popular": [
+      {
+        "name": "Pizza FRESCA",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-fresca-4356.jpg",
+        "rating": 4.9,
+        "deliveryTime": "50 min",
+        "price": 28,
+        "note": "32cm/650g"
+      },
+      {
+        "name": "Pizza BELLA",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-bello-5019.jpg",
+        "rating": 4.5,
+        "deliveryTime": "60 min",
+        "price": 35,
+        "note": "32cm/650g"
+      },
+      {
+        "name": "Pizza QUATTRO STAGIONI",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-uattro-stagioni-9922.jpg",
+        "rating": 4,
+        "deliveryTime": "55 min",
+        "price": 35.9,
+        "note": "32cm/700g"
+      },
+      {
+        "name": "Pizza SALAMI",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-salami-classic-2703.jpg",
+        "rating": 5,
+        "deliveryTime": "60 min",
+        "price": 35,
+        "note": "32cm/670g"
+      },
+      {
+        "name": "Pizza PARTY",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/547CA313-C580-4A76-81B5-D7B94C55688A.jpeg",
+        "rating": 4.7,
+        "deliveryTime": "120 min",
+        "price": 80,
+        "note": "1.9kg"
+      }
+    ],
+    "recommended": [
+      {
+        "name": "Pizza DIAVOLA",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-diavola-1845.jpg",
+        "rating": 5,
+        "deliveryTime": "55 min",
+        "price": 35,
+        "note": "32cm/650g"
+      },
+      {
+        "name": "Pizza QUATTRO FORMAGGI",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-formaggi-1288.jpg",
+        "rating": 5,
+        "deliveryTime": "60 min",
+        "price": 40,
+        "note": "32cm/650g"
+      },
+      {
+        "name": "Pizza QUATTRO STAGIONI",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-uattro-stagioni-9922.jpg",
+        "rating": 4,
+        "deliveryTime": "55 min",
+        "price": 35.9,
+        "note": "32cm/700g"
+      },
+      {
+        "name": "Pizza PROSCIUTTO",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-prosciutto-6738.jpg",
+        "rating": 4.9,
+        "deliveryTime": "65 min",
+        "price": 42,
+        "note": "32cm/670g"
+      },
+      {
+        "name": "Pizza DESERT",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-desert-1227.jpg",
+        "rating": 4.8,
+        "deliveryTime": "110 min",
+        "price": 33,
+        "note": "32cm/800g"
+      }
+    ],
+    "allmenu": [
+      {
+        "name": "Pizza DIAVOLA",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-diavola-1845.jpg",
+        "rating": 5,
+        "deliveryTime": "55 min",
+        "price": 35,
+        "note": "32cm/650g"
+      },
+      {
+        "name": "Pizza QUATTRO FORMAGGI",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-formaggi-1288.jpg",
+        "rating": 5,
+        "deliveryTime": "60 min",
+        "price": 40,
+        "note": "32cm/650g"
+      },
+      {
+        "name": "Pizza QUATTRO STAGIONI",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-uattro-stagioni-9922.jpg",
+        "rating": 4,
+        "deliveryTime": "55 min",
+        "price": 35.9,
+        "note": "32cm/700g"
+      },
+      {
+        "name": "Pizza PROSCIUTTO",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-prosciutto-6738.jpg",
+        "rating": 4.9,
+        "deliveryTime": "65 min",
+        "price": 42,
+        "note": "32cm/670g"
+      },
+      {
+        "name": "Pizza DESERT",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-desert-1227.jpg",
+        "rating": 4.8,
+        "deliveryTime": "110 min",
+        "price": 33,
+        "note": "32cm/800g"
+      },
+      {
+        "name": "Pizza FRESCA",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-fresca-4356.jpg",
+        "rating": 4.9,
+        "deliveryTime": "50 min",
+        "price": 28,
+        "note": "32cm/650g"
+      },
+      {
+        "name": "Pizza BELLA",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-bello-5019.jpg",
+        "rating": 4.5,
+        "deliveryTime": "60 min",
+        "price": 35,
+        "note": "32cm/650g"
+      },
+      {
+        "name": "Pizza QUATTRO STAGIONI",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-uattro-stagioni-9922.jpg",
+        "rating": 4,
+        "deliveryTime": "55 min",
+        "price": 35.9,
+        "note": "32cm/700g"
+      },
+      {
+        "name": "Pizza SALAMI",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/dopo-poco-pizza-salami-classic-2703.jpg",
+        "rating": 5,
+        "deliveryTime": "60 min",
+        "price": 35,
+        "note": "32cm/670g"
+      },
+      {
+        "name": "Pizza PARTY",
+        "imageURL": "https://www.dopopoco.ro/uploads/produse/547CA313-C580-4A76-81B5-D7B94C55688A.jpeg",
+        "rating": 4.7,
+        "deliveryTime": "120 min",
+        "price": 80,
+        "note": "1.9kg"
+      }
+    ]
+  }
+]
